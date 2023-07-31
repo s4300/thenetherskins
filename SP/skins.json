@@ -1,0 +1,19 @@
+{
+	"geometry": "skinpacks/skins.json",
+	"skins": [
+		{
+			"localization_name": "nether_steve",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "nether_steve.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "nether_alex",
+			"geometry": "geometry.humanoid.customSlim",
+			"texture": "nether_alex.png",
+			"type": "free"
+		}
+	],
+	"serialize_name": "thenetherdefault",
+	"localization_name": "thenetherdefault"
+}

@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"s4300"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "The Nether Skins",
+		"description": "Steve and Alex from The Nether",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
+		"uuid": "08ede521-b84b-4e10-936c-bf9944379ede",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "skin_pack",
+			"uuid": "e9ac1803-6536-473c-a037-602b815371ac",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
